@@ -1,0 +1,206 @@
+16 Jun 2019 4:01:11 GMT: Log 'EclipseCompiler.txt' opened: 16 Jun 2019 4:01:11 GMT with name C:\Users\Zer0v\Desktop\CPT\EclipseCompiler.txt
+16 Jun 2019 4:01:21 GMT: diagnostics = javax.tools.DiagnosticCollector@f698fc1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6406dd24
+fileObjects = [C:\Users\Zer0v\Desktop\CPT\Game.java]
+16 Jun 2019 4:01:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@157038e2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Desktop\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+16 Jun 2019 4:01:21 GMT: Compiler call returned
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fabcbf3
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 5 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@465df8e1
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.EtchedBorder is never used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47a8478a
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 50 ColNo = 13 Msg = 'The value of the local variable trigger is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32952409
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 108 ColNo = 9 Msg = 'The value of the local variable min is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@492bfe90
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 109 ColNo = 9 Msg = 'The value of the local variable max is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60989da4
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 417 ColNo = 51 Msg = 'The value of the local variable subpanel2_4 is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6589122a
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 470 ColNo = 23 Msg = 'The value of the local variable enemypic is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e27d7fe
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1062 ColNo = 9 Msg = 'The value of the local variable level is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68ee69d4
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1367 ColNo = 12 Msg = 'The value of the local variable enemymoveselect is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c3fbcd0
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1681 ColNo = 34 Msg = 'The value of the local variable cooldown is not used'
+16 Jun 2019 4:01:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@618aef3f
+16 Jun 2019 4:01:21 GMT:  Kind = WARNING
+16 Jun 2019 4:01:21 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1681 ColNo = 44 Msg = 'The value of the local variable desc is not used'
+16 Jun 2019 4:01:27 GMT: diagnostics = javax.tools.DiagnosticCollector@d121d98
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5a6608e2
+fileObjects = [C:\Users\Zer0v\Desktop\CPT\Game.java, C:\Users\Zer0v\Desktop\CPT\Battle.java]
+16 Jun 2019 4:01:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4331ddf8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Desktop\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+16 Jun 2019 4:01:27 GMT: Compiler call returned
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c6adce2
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 5 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54977103
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.EtchedBorder is never used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79aead8a
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 50 ColNo = 13 Msg = 'The value of the local variable trigger is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3439bb51
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 108 ColNo = 9 Msg = 'The value of the local variable min is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e3efcf8
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 109 ColNo = 9 Msg = 'The value of the local variable max is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@514e9d55
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 417 ColNo = 51 Msg = 'The value of the local variable subpanel2_4 is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d00b80b
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 470 ColNo = 23 Msg = 'The value of the local variable enemypic is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@241a63c9
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1062 ColNo = 9 Msg = 'The value of the local variable level is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d8a928e
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1367 ColNo = 12 Msg = 'The value of the local variable enemymoveselect is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@488b1e5f
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1681 ColNo = 34 Msg = 'The value of the local variable cooldown is not used'
+16 Jun 2019 4:01:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@101337a5
+16 Jun 2019 4:01:27 GMT:  Kind = WARNING
+16 Jun 2019 4:01:27 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1681 ColNo = 44 Msg = 'The value of the local variable desc is not used'
+16 Jun 2019 4:03:17 GMT: Log 'EclipseCompiler.txt' opened: 16 Jun 2019 4:03:17 GMT with name C:\Users\Zer0v\Desktop\CPT\EclipseCompiler.txt
+16 Jun 2019 4:09:40 GMT: diagnostics = javax.tools.DiagnosticCollector@6d1f162d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@46e758d9
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\Jonahs Work\BattleShipHSA.java, C:\Users\Zer0v\Desktop\CPT\Battle.java]
+16 Jun 2019 4:09:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@282a9108' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\Jonahs Work;C:\Users\Zer0v\Desktop\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+16 Jun 2019 4:09:41 GMT: Compiler call returned
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11b42d0
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Documents\Java Work\Jonahs Work\BattleShipHSA.java LineNo = 536 ColNo = 9 Msg = 'Dead code'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49a108d5
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Documents\Java Work\Jonahs Work\BattleShipHSA.java LineNo = 60 ColNo = 11 Msg = 'The value of the local variable ai_hits is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1277def3
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Documents\Java Work\Jonahs Work\BattleShipHSA.java LineNo = 60 ColNo = 24 Msg = 'The value of the local variable user_hits is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56df847b
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Documents\Java Work\Jonahs Work\BattleShipHSA.java LineNo = 713 ColNo = 12 Msg = 'The value of the local variable menuOption is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b60ef98
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 5 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a46b181
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.EtchedBorder is never used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@266a767c
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 50 ColNo = 13 Msg = 'The value of the local variable trigger is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3cc296
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 108 ColNo = 9 Msg = 'The value of the local variable min is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40ecf0a6
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 109 ColNo = 9 Msg = 'The value of the local variable max is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f199b83
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 419 ColNo = 51 Msg = 'The value of the local variable subpanel2_4 is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a35cb8a
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 473 ColNo = 23 Msg = 'The value of the local variable enemypic is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60f79028
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1065 ColNo = 9 Msg = 'The value of the local variable level is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47392550
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1370 ColNo = 12 Msg = 'The value of the local variable enemymoveselect is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74cf6bb7
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1684 ColNo = 34 Msg = 'The value of the local variable cooldown is not used'
+16 Jun 2019 4:09:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5002973f
+16 Jun 2019 4:09:41 GMT:  Kind = WARNING
+16 Jun 2019 4:09:41 GMT: Name = C:\Users\Zer0v\Desktop\CPT\Battle.java LineNo = 1684 ColNo = 44 Msg = 'The value of the local variable desc is not used'
+23 Jun 2019 0:20:55 GMT: Log 'EclipseCompiler.txt' opened: 23 Jun 2019 0:20:55 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+23 Jun 2019 0:21:03 GMT: diagnostics = javax.tools.DiagnosticCollector@4a8809c6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5898df21
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Game.java]
+23 Jun 2019 0:21:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3b3770d5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+23 Jun 2019 0:21:05 GMT: Compiler call returned
+27 Jun 2019 18:13:43 GMT: Log 'EclipseCompiler.txt' opened: 27 Jun 2019 18:13:43 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+27 Jun 2019 20:09:50 GMT: Log 'EclipseCompiler.txt' opened: 27 Jun 2019 20:09:50 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+27 Jun 2019 20:09:54 GMT: diagnostics = javax.tools.DiagnosticCollector@f698fc1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6406dd24
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Game.java]
+27 Jun 2019 20:09:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@157038e2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+27 Jun 2019 20:09:58 GMT: Compiler call returned
+27 Jun 2019 20:11:59 GMT: Log 'EclipseCompiler.txt' opened: 27 Jun 2019 20:11:59 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+7 Sep 2019 2:22:48 GMT: Log 'EclipseCompiler.txt' opened: 7 Sep 2019 2:22:48 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+7 Sep 2019 2:30:19 GMT: diagnostics = javax.tools.DiagnosticCollector@f0905ae
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17f43d23
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java, C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Game.java]
+7 Sep 2019 2:30:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@323b2cfa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+7 Sep 2019 2:30:24 GMT: Compiler call returned
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33a34b33
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 5 ColNo = 8 Msg = 'The import javax.swing.border.TitledBorder is never used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77ee4f28
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 6 ColNo = 8 Msg = 'The import javax.swing.border.EtchedBorder is never used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e3d7835
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 50 ColNo = 13 Msg = 'The value of the local variable trigger is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bfbfdec
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 108 ColNo = 9 Msg = 'The value of the local variable min is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7884178a
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 109 ColNo = 9 Msg = 'The value of the local variable max is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d9680bd
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 419 ColNo = 51 Msg = 'The value of the local variable subpanel2_4 is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@485fb3ea
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 473 ColNo = 23 Msg = 'The value of the local variable enemypic is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cef2390
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 1065 ColNo = 9 Msg = 'The value of the local variable level is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@348f51c0
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 1370 ColNo = 12 Msg = 'The value of the local variable enemymoveselect is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d55ac84
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 1684 ColNo = 34 Msg = 'The value of the local variable cooldown is not used'
+7 Sep 2019 2:30:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@48a08027
+7 Sep 2019 2:30:24 GMT:  Kind = WARNING
+7 Sep 2019 2:30:24 GMT: Name = C:\Users\Zer0v\Documents\Java Work\CPT\CPT\Battle.java LineNo = 1684 ColNo = 44 Msg = 'The value of the local variable desc is not used'
+7 Sep 2019 2:40:07 GMT: Log 'EclipseCompiler.txt' opened: 7 Sep 2019 2:40:07 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+10 Sep 2019 0:17:44 GMT: Log 'EclipseCompiler.txt' opened: 10 Sep 2019 0:17:44 GMT with name C:\Users\Zer0v\Documents\Java Work\CPT\CPT\EclipseCompiler.txt
+11 Oct 2019 1:58:36 GMT: Log 'EclipseCompiler.txt' opened: 11 Oct 2019 1:58:36 GMT with name C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\EclipseCompiler.txt
+11 Oct 2019 1:58:41 GMT: diagnostics = javax.tools.DiagnosticCollector@694e8a85
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2c1455f4
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\Game.java]
+11 Oct 2019 1:58:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14d93172' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+11 Oct 2019 1:58:44 GMT: Compiler call returned
+25 Oct 2019 1:23:24 GMT: Log 'EclipseCompiler.txt' opened: 25 Oct 2019 1:23:24 GMT with name C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\EclipseCompiler.txt
+25 Oct 2019 1:23:40 GMT: diagnostics = javax.tools.DiagnosticCollector@6e707bfe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a6e4d5b
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\Game.java]
+25 Oct 2019 1:23:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7dafd233' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+25 Oct 2019 1:23:44 GMT: Compiler call returned
+25 Oct 2019 1:23:53 GMT: diagnostics = javax.tools.DiagnosticCollector@471d0827
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21e06342
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\Game.java]
+25 Oct 2019 1:23:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3b22e18' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+25 Oct 2019 1:23:54 GMT: Compiler call returned
+4 Dec 2019 23:24:30 GMT: Log 'EclipseCompiler.txt' opened: 4 Dec 2019 23:24:30 GMT with name C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\EclipseCompiler.txt
+4 Dec 2019 23:24:33 GMT: diagnostics = javax.tools.DiagnosticCollector@4760c144
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@77176468
+fileObjects = [C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT\Game.java]
+4 Dec 2019 23:24:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4ced8906' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Zer0v\Documents\Java Work\Grade 12\CPT\CPT;D:\Zer0v\Documents\Java Work\hsa+template\hsa.jar;C:\Users\Zer0v\Documents\Java Work\drjava-beta-20160913-225446.exe]
+4 Dec 2019 23:24:34 GMT: Compiler call returned

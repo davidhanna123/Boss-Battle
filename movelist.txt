@@ -1,0 +1,286 @@
+Pistol Shot
+35
+Mechanical
+0
+Use a pistol to fire 1 shot at the opponent.
+Step Back
++1 DEX
+-
+3
+Take a step back to increase distance between you and the enemy.
+Take Cover
++2 DEF
+-
+3
+Take cover to protect yourself against harm.
+Shock Wave
+35
+Magic
+0
+Concentrate your conscience to attack the enemy.
+Barrier
++1 DEF
+Magic
+3
+Create a thin force field to protect yourself.
+Cloak of Midnight
++3 DEX
+Magic
+4
+Create a cloak to become one with the night.
+Arcane Bolt
+75
+Magic
+1
+Shoot a bolt of raw energy.
+Restoration
+Heal 35%
+Magic
+3
+Heal your wounds.
+Holy Ray
+100
+Magic
+1
+Attack with a blast of holy light.
+Divine Heal
+Heal 75%
+Magic
+3
+Embrace the power of heaven to heal your wounds.
+Fire Ball
+50
+Magic
+2
+Fire a ball of flame into the enemy.
+Shot Gun
+75
+Mechanical
+2
+Use your shotgun.
+Endeavor
+5
+-
+0
+There's no time to waste, the enemy does not wait for you. Attempt to do something.
+Concentrate
++2 ATK
+Magic
+3
+Control your mind to focus your attacks better.
+First Aid
+Heal 20%
+-
+3
+Deal with your wounds.
+Chemtrail Smog
+-2 ATK to oppponent.
+Mechanical
+4
+Burn hormonal chemicals into the air to pacify the opponent.
+Fusion Supernova
+900
+Magic
+1
+Induce a transient astronomical explosion.
+Cloudkill
+85
+Nature
+0
+Deal damage through vaporizing clouds.
+Life Pool
+Heal 25%
+Nature
+3
+Tap into your inner life force to heal yourself.
+Flare Brass
+235
+Magic
+5
+Ignite your weapon with a mystic fire to crash into the enemy.
+Mana Surge
+Heal 40%
+Magic
+3
+Release a powerful energy throughout your body to rejuventate yourself.
+Low Kick
+85
+Nature
+2
+Use your leg to strike the opponent's lower body.
+Dragon Blade
+120
+Physical
+2
+Imbue your blade with an ancient power to strike the foe.
+Slash
+68
+Physical
+0
+Slash the enemy with a sharp weapon.
+Forward Stance
++3 ATK
+Physical
+4
+Keep your body balanced to increase attack effectiveness.
+High Blow
+100
+Physical
+3
+Perform a vertical blow against the opponent's head with your weapon.
+Wrath Blow
+85
+Physical
+2
+Swing your weapon from above, and diagonally aim towards the opponent's ear.
+Middle Blow
+70
+Physical
+1
+Swing your weapon horizontally.
+Low Blow
+60
+Physical
+0
+Swing your weapon below and aim for the opponent's arms.
+Semi-Automatic Rifle
+75
+Mechanical
+0
+Fire at the enemy with a semi-automatic rifle.
+Roar
+-2 ATK to opponent.
+Nature
+3
+Display a fearsome roar to deter the enemy from attacking.
+Disembowl
+100
+Nature
+4
+Tear the enemy apart savagely.
+Ion Cannon
+200
+Mechanical
+10
+Use a particle-beam weapon to damage the target by disrupting its atomic and molecular structure.
+Machine Gun
+130
+Mechanical
+3
+Use a machine gun to kill the target.
+Ion Cannon but it missed!
+0
+Mechanical
+0
+-
+Deathscythe
+80
+Magic
+2
+Use the power of death to attack the enemy.
+Corruption
+-3 DEF to opponent
+Magic
+4
+Attempt to corrupt the enemy to lower their defence.
+Dark Aura
+95
+Magic
+1
+Exert a pulse of malevolent power.
+Judgement Storm
+170
+Water
+2
+Summon a biblical storm upon the enemy.
+Aqua Veil
++4 DEF
+Water
+4
+Surround yourself with H2O molecules to rejuvenate your body.
+Acid Rain
+85
+Water
+1
+Summon a downpour of acid to greatly harm the enemy.
+Blood Rain
++3 ATK
+Water
+3
+Summon blood from the sky to cloak yourself with sacrifice.
+Wings of Faith
+130
+Magic
+2
+Come down upon the enemy with wings of grace.
+Catastrophe
+450
+Magic
+5
+Invoke a catastrophe through a powerful, all knowing force.
+Summon Nightmare
+-5 ATK to opponent
+Magic
+3
+Invoke an immense power to bring upon fear.
+Oblivion Contract
++4 ATK
+Magic
+1
+Reach into the void and sacrifice a part of your soul.
+Imperial Wrath
+180
+Divine
+1
+Respond with an unknown help to correct the injustice before you.
+Dark Bolt
+145
+Magic
+1
+Strike the enemy with a blast of pure power drawn from sin.
+Proliferation
++4 DEF
+Nature
+2
+Rapidly grow and reproduce cells to enhance your defence greatly.
+Brilliance of Life
+600
+Nature
+2
+The sickness of life is not unto death. Cause an existential death and drastically curtail the opponents life.
+Grandcross
+200
+Magic
+1
+Bring about an almighty attack unto the opponent to deal devastating damage.
+Meteor Strike
+150
+Magic
+1
+Summon a spacial meteor to bring about calamities.
+Angel Wings
++6 DEF
+Divine
+2
+Spread out divine wings to protect yourself against all that cause harm.
+Heaven's Ray
+175
+Divine
+1
+Open up the sacred heaven to let down an all mighty ray to vaporize enemies.
+Gaia's Reawakening
++6 ATK
+Divine
+1
+Through your eternal might, you summon Gaia. An intense power flows thorughout the earth to give you strength.
+All-Seeing Force
+Heal 6%
+Nature
+0
+Bind together an omnipotent force to restore yourself.
+
+Name
+Power
+Element
+Cooldown
+Desc

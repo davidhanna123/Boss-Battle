@@ -1,0 +1,189 @@
+Wizard
+1
+9
+9
+3
+4
+4
+Magic
+0
+0
+0
+Dragon Knight
+1
+15
+15
+5
+6
+5
+Physical
+0
+0
+0
+Soldier
+1
+9
+9
+5
+4
+4
+Physical
+0
+0
+0
+Tank
+1
+10
+10
+6
+9
+1
+Mechanical
+0
+0
+0
+Panthera Soldier
+1
+11
+11
+6
+4
+6
+Nature
+0
+0
+0
+Mercenary
+1
+8
+8
+4
+4
+4
+Physical
+0
+0
+0
+Ancient Warrior
+1
+10
+10
+6
+3
+4
+Physical
+0
+0
+0
+Lower Demon
+1
+10
+10
+5
+4
+4
+Magic
+0
+0
+0
+Reaper
+1
+8
+8
+5
+4
+6
+Magic
+0
+0
+0
+Undead Space Marine
+1
+9
+9
+6
+6
+4
+Physical
+0
+0
+0
+Water Oracle
+1
+8
+8
+6
+5
+7
+Magic
+0
+0
+0
+Imperator
+1
+9
+9
+6
+7
+4
+Physical
+0
+0
+0
+Cult Leader
+1
+9
+9
+5
+5
+5
+Magic
+0
+0
+0
+Mystic Elk
+1
+17
+17
+6
+6
+6
+Magic
+0
+0
+0
+Lord of The Flies
+1
+18
+18
+5
+5
+5
+Vile
+0
+0
+0
+The Demiurge
+1
+20
+20
+7
+7
+7
+Divine
+0
+0
+0
+
+//
+0 name
+1 level 
+2 hp
+3 currenthp
+4 curatk 
+5 curdef
+6 curdex
+7 element
+8 atk //Leave the last 3 stats as 0. The program will set 
+9 def
+10 dex
